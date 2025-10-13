@@ -44,7 +44,7 @@ Learn Bash base commands:
 ### Password manager
 
 - Using a password manager is mandatory
-- [Buttercup](https://buttercup.pw/)
+- [Buttercup](https://buttercup.pw/)(ARCHIVED)
 - [Bitwarden](https://bitwarden.com/)
 - [KeePass](https://keepass.info/)
 - [pass](https://www.passwordstore.org/)
