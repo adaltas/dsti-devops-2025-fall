@@ -14,7 +14,7 @@ Before starting configuring CI/CD to a software project, you need to have its re
 
 > Note. Skip the following steps if you already have a repository on GitHub containing the application from the previous [Continuous Testing lab](../04.continuous-testing/lab.md).
 
-1. Create a Git repository for the User API project imported from [../03.continuous-testing/lab/](../03.continuous-testing/lab/), and commit all the files. 
+1. Create a Git repository for the User API project imported from [../04.continuous-testing/lab/](../04.continuous-testing/lab/), and commit all the files. 
 2. Create a remote repository on GitHub, link it with the local one, and push the changes.
 
 ## Part 1. Continuous Integration with GitHub Actions
