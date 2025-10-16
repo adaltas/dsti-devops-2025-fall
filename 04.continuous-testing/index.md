@@ -89,6 +89,10 @@ Continuous Testing is the process of executing automated tests as part of the so
 
 - [What is continuous testing?](https://www.ibm.com/cloud/learn/continuous-testing)
 
+## Resources
+
+- [Obey the testing Goat!](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
 ---
 
 *The content of this document, including all text, images, and associated materials, is the exclusive property of Adaltas and is protected by applicable copyright laws. Unauthorized distribution, reproduction, or sharing of this content, in whole or in part, is strictly prohibited without the express written consent of the author(s). Any violation of this restriction may result in legal action and the imposition of penalties as prescribed by law.*
